@@ -1,0 +1,3 @@
+[submodule "workout-frontend"]
+	path = workout-frontend
+	url = https://github.com/jpattison54319/workout-frontend.git
